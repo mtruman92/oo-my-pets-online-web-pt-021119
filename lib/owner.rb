@@ -7,8 +7,6 @@ class Owner
     @species = species
   end
   
-  def initialize(pets = {'x,y,z'})
-    @pets = pets
-  end
+ 
   # code goes here
 end
