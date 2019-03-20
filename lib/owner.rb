@@ -14,6 +14,8 @@ class Owner
     @@all
   end
   
+  def self.count
+    @@all
  
   # code goes here
 end
