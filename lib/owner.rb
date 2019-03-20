@@ -34,5 +34,8 @@ class Owner
    fish = Fish.new(fish_name)
    @pets[:fishes] << fish
  end
+ 
+ def buy_cat(cat_name)
+ end
   # code goes here
 end
