@@ -74,6 +74,7 @@ class Owner
  end
  
  def list_pets
+   "I have "
  end
   # code goes here
 end
