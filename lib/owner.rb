@@ -59,6 +59,7 @@ class Owner
  end
  
  def feed_fish
+   fish.mood = "happy"
  end
   # code goes here
 end
